@@ -1,0 +1,92 @@
+.thumbnails{
+  width: 300px;
+  
+  }
+  .input-search{
+    height: 25px;
+    border-radius: 5px;
+    border-width: 1px;
+    width: 100px;
+    
+  }
+  .input-search-google{
+    font-size: 16px;
+    width: 500px;
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  .email{
+    margin-bottom: 0;
+    font-family: Arial;
+    font-size: 15px;
+    color: gray;
+  }
+  .email-input{
+    margin-top: 7px;
+    margin-bottom: 0;
+    width: 350px;
+  }
+  .agree{
+    font-family: Arial;
+    font-size: 15px;
+    color: gray;
+  }
+  .agree-join-button{
+    background-color: blue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 145px;
+    padding-right: 145px;
+    border-radius: 40px;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+  }
+  .tweet{
+    vertical-align: middle;
+  }
+  .cat-imag{
+  
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: left;
+    border-radius: 50%;
+    vertical-align: middle;
+  }
+  .tweet-text{
+    margin-right: 100px;
+    color: gray;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: middle;
+    border: none;
+  }
+  .tweet-button{
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+    vertical-align: auto;
+    vertical-align: middle;
+  }
+  .tweet-button:active{
+    box-shadow: 5px 5px 10px black inset;
+  }
+
